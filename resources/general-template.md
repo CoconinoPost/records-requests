@@ -1,6 +1,4 @@
-<!---
-A template for general and U.S. federal agency requests.
--->
+[//]: # (A template for general and U.S. federal agency requests.)
 
 Dear records officer,
 
